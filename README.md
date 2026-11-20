@@ -129,9 +129,9 @@ For questions, privacy requests, or concerns about this Privacy Policy,
 contact:
 
 -   **App:** Medizo --- Medicine & Health Info
--   **Developer:** \Abddul Rehman\
--   **Email:** \itsrehmn@gmail.com\
--   **Privacy Policy URL:** \https://github.com/iabdulrehman77/Medizo-Privacy-Policy/blob/main/README.md\
+-   **Developer:** Abddul Rehman
+-   **Email:** itsrehmn@gmail.com
+-   **Privacy Policy URL:** https://github.com/iabdulrehman77/Medizo-Privacy-Policy/blob/main/README.md
 
 ------------------------------------------------------------------------
 
