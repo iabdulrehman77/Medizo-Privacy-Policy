@@ -1,0 +1,1 @@
+# Medizo-Privacy-Ploicy
